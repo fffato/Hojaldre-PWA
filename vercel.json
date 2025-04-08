@@ -4,6 +4,9 @@
     {
       "src": "vite.config.js",
       "use": "@vercel/static-build"
+       "config": {
+        "distDir": "dist"
+      }
     }
   ]
 }
