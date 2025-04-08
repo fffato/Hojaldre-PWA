@@ -12,7 +12,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico'],
       manifest: {
-        name: 'HojaldreYSablée',
+        name: 'HojaldreYSablee',
         short_name: 'Hojaldre',
         description: 'Gestor de pedidos de repostería',
         theme_color: '#f9c2d4',
