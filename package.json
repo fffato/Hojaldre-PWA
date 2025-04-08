@@ -21,7 +21,7 @@
     "vite-plugin-pwa": "^1.0.0"
   },
   "engines": {
-	"node": "16.x"
+	"node": "18.x"
    },
   "browserslist": "> 0.2%, not dead, not op_mini all"
 }
