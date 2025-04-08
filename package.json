@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "vercel-build": "npm ci && npm run build",
   "dependencies": {
     "dayjs": "^1.10.7",
     "emailjs-com": "^2.6.4",
